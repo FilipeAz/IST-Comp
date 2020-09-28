@@ -8,4 +8,4 @@
 
 [Comp](https://fenix.tecnico.ulisboa.pt/disciplinas/Com5645111326-2/2016-2017/2-semestre)
 
-Projects Grade - 17/20
+Project Grade - 17/20
