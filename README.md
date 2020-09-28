@@ -1,6 +1,6 @@
 # IST-Comp
 
-2016/2017 Compilers (Comp) course from the 3rd year of the Computer Science and Engineering (LEIC-A) programme @ Instituto Superior Técnico (IST)
+2016/2017 Compilers (Comp) course from the 3rd year of the Computer Science and Engineering (LEIC-A) undergraduate programme @ Instituto Superior Técnico (IST)
 
 [IST](https://tecnico.ulisboa.pt/en/)
 
